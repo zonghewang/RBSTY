@@ -1,8 +1,6 @@
-[
-	 {
-		"ver": "1.0",
-		"updateinfotitle": "测试",
-		"updateInfo": "测试",
-		"DownLoadCilent": "Http://www.baidu.com"
-	}
-]
+{
+	"ver": "1.0",
+	"updateinfotitle": "测试",
+	"updateInfo": "测试",
+	"DownLoadCilent": "Http://www.baidu.com"
+}
